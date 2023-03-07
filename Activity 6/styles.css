@@ -1,0 +1,33 @@
+#text {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+.Bgreen {
+  color: #ffffff;
+  background-color: green;
+}
+
+.Bwhite {
+  color: black;
+  background-color: white;
+}
+
+div {
+  font-size: 18px;
+}
+
+.child-div {
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+
+
